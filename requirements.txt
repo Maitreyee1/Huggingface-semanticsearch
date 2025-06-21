@@ -1,0 +1,8 @@
+gradio
+openai
+pinecone
+sentence-transformers
+torch
+datasets
+langchain
+tqdm
