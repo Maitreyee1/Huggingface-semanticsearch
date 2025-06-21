@@ -4,7 +4,11 @@ A vector database is a specialized type of database designed to store, index, an
 
 This repository contains code built on use cases in the course: Deeplearning.ai – [Building Applications with Vector Databases](https://learn.deeplearning.ai/courses/building-applications-vector-databases/lesson/la6ct/semantic-search)
 
-The code has been initially deployed on Hugging Face Spaces and the individual links are present in respective READMEs in the folders.
+The code has been initially deployed on Hugging Face Spaces. Application Links below-
+
+####  [Semantic Search Gradio App  on Hugging Face](https://huggingface.co/spaces/Maitreyee22/semanticsearch)
+
+Individual links are also present in respective READMEs in the folders.
 
 Have fun!
 
@@ -34,9 +38,3 @@ Pinecone works as follows:
 
 Source: ChatGPT
 
-
-
-
-The repository contains the following applications using Pinecone hosted on HuggingFace:
-
-####  [Semantic Search Gradio App  on Hugging Face](https://huggingface.co/spaces/Maitreyee22/semanticsearch)
